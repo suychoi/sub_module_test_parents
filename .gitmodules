@@ -1,0 +1,3 @@
+[submodule "sub_module_test_children"]
+	path = sub_module_test_children
+	url = https://github.com/suychoi/sub_module_test_children
